@@ -6,10 +6,10 @@ i got the idea from: https://www.youtube.com/watch?v=GhPZHvhvlsk
 ## Getting started
 
     # clone the repository into a Raspberry Pi
-    $ git clone ssh://git@git.yseq.net:2222/abdullah/RockPaperScissors.git
+    $ git clone ssh://git@github.com:Abood-710/rock_paper_scissors.git  
     
     # go into the repository
-    $ cd RockPaperScissors
+    $ cd rock_paper_scissors
     
     # create a virtualenv
     $ python3 -m venv venv
